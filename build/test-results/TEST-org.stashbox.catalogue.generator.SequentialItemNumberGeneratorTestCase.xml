@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="ubuntu" name="org.stashbox.catalogue.generator.SequentialItemNumberGeneratorTestCase" tests="1" time="0.151" timestamp="2012-07-07T05:18:45">
+  <properties />
+  <testcase classname="org.stashbox.catalogue.generator.SequentialItemNumberGeneratorTestCase" name="testGetNextNumber" time="0.012" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
